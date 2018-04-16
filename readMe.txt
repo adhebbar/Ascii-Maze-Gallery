@@ -6,3 +6,4 @@ You can install these libraries by first installing pip, and then using pip to i
 
 default pepe image from: http://i2.cdn.cnn.com/cnnnext/dam/assets/160927210830-tk-ah0927-exlarge-169.jpg
 
+demo video: https://www.youtube.com/watch?v=Mev4uImyWe8&t=36s
